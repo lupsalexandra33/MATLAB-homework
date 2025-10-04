@@ -1,5 +1,3 @@
-Lupsa Alexandra-Cristina - 312CC
-
 Implementare TEMA1-METODE NUMERICE:
 
 Task 1. Markov is coming...

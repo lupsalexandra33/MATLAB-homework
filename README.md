@@ -1,6 +1,6 @@
-Implementare TEMA1-METODE NUMERICE:
+## Implementare TEMA1-METODE NUMERICE:
 
-Task 1. Markov is coming...
+### Task 1. Markov is coming...
 
 1. Functia parse_labyrinth:
 	Am citit prima linie din fișier cu [fgetl]
@@ -84,7 +84,7 @@ identificăm poziția fiecărei stări din path, ignorând starea finală WIN.
 Se construiește astfel decoded_path, vectorul de coordonate ce descrie vizual
 parcursul în labirint.
 
-Task 2. Linear Regression
+### Task 2. Linear Regression
 
 1. Functia parse_data_set_file:
 	Am citit prima linie a fisierului cu fgetl si de acolo am extras
@@ -150,7 +150,7 @@ Am calculat ulterior eroarea cu formula specifica acestui caz.
 apoi am calculat regularizarea prin adaugarea tuturor elementelor la patrat.
 Am calculat ulterior eroarea cu formula specifica acestui caz.
 
-Task 3. MNIST 101
+### Task 3. MNIST 101
 
 1. Functia load_dataset:
 	Am extras toate informatiile din fisierul de tip .mat cu ajutorul functiei
